@@ -1,0 +1,10 @@
+﻿/.deploy_git/
+/blogSource/
+/node_modules/
+/public/
+/scaffolds/
+/themes/
+
+*.db
+*.json
+
