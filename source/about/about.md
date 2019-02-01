@@ -5,7 +5,7 @@ comments: false
 ---
 
 Nickname：AndyVJ  
-邮箱：huche156@foxmail.com  
+Email：huche156@foxmail.com  
 
 ---
 
