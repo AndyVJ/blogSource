@@ -2,7 +2,9 @@
 /blogSource/
 /node_modules/
 /public/
-
+!/themes/
 *.db
 *.json
+!package.json
+!package-lock.json
 
