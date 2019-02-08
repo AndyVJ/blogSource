@@ -2,7 +2,7 @@
 /blogSource/
 /node_modules/
 /public/
-!/themes/
+!/themes/next
 *.db
 *.json
 !package.json
